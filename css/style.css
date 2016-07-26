@@ -1,0 +1,14 @@
+.row: before, .row: after{
+	content: " ";
+	display: table ;
+}
+
+.row: after{
+	clear: both;
+}
+
+.row{
+	background-color: #7FD1EC;
+	border-bottom: 2px solid gray;
+
+}
